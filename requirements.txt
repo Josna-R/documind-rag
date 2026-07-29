@@ -1,0 +1,13 @@
+# Core
+numpy>=1.24
+scikit-learn>=1.3
+faiss-cpu>=1.7.4
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.0
+streamlit>=1.32
+
+# Optional: swap in real embedding/LLM providers for production use
+# sentence-transformers>=2.6   # higher-quality local embeddings
+# openai>=1.30                 # GPT-4o / GPT-4.1 generation
+# anthropic>=0.25              # Claude generation
