@@ -129,7 +129,4 @@ pluggable OpenAI / Anthropic generation
 ## Author
 
 Built by [Josna Deepa Rayana](https://github.com/Josna-R), AI/ML Engineer &
-Data Scientist. Part of a three-project GenAI portfolio alongside
-[AgentCrew](https://github.com/Josna-R/agentcrew-multiagent) (multi-agent
-orchestration) and [RAGuard](https://github.com/Josna-R/raguard-eval)
-(LLM evaluation & hallucination detection).
+Data Scientist.
